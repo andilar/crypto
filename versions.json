@@ -894,5 +894,9 @@
   {
     "version": "pr-475",
     "url": "https://eclipse-score.github.io/crypto/pr-475/"
+  },
+  {
+    "version": "pr-477",
+    "url": "https://eclipse-score.github.io/crypto/pr-477/"
   }
 ]
